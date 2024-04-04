@@ -11,5 +11,5 @@ we made this copy for archival purposes.
 The script `download.sh` was used to create the copy.
 
 The pages were subsequently amended to include PDF copies of the program and
-abstracts, which was info that was previously only on the Oxford Abstracts
-platform that was used to host that content.
+abstracts, which was info that was previously only hosted on the Oxford
+Abstracts platform (separate to the website).
